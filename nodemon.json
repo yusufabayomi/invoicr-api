@@ -1,0 +1,6 @@
+{
+    "exec": "npm start",
+    "watch": ["src"],
+    "ext": "ts",
+    "ignore": ["**/*.test.ts", "**/*.spec.ts", "node_modules", "src/routes.ts", "tsconfig.tsbuildinfo"]
+  }
